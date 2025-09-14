@@ -10,6 +10,4 @@
 
 Ou seja, aumentar o sigma não altera a média, mas aumenta a variabilidade dos resultados médios.
 
-4. O simulador é considerado estocástico porque os tempos de atendimento são gerados de forma aleatória a partir de uma distribuição normal. Isso significa que, mesmo configurando os mesmos parâmetros, cada execução produz resultados diferentes devido à presença de variáveis aleatórias.
-
-Esse comportamento reflete situações reais: em um supermercado, o tempo de atendimento de cada cliente nunca é exatamente igual, variando por fatores como quantidade de produtos, experiência do atendente, problemas no caixa etc. Ou seja, o simulador aproxima-se da realidade ao incorporar essa incerteza probabilística.
+4. O simulador é considerado estocástico porque os tempos de atendimento são gerados de forma aleatória a partir de uma distribuição normal. Isso significa que, mesmo configurando os mesmos parâmetros, cada execução produz resultados diferentes devido à presença de variáveis aleatórias. Esse comportamento reflete situações reais: em um supermercado, o tempo de atendimento de cada cliente nunca é exatamente igual, variando por fatores como quantidade de produtos, experiência do atendente, problemas no caixa etc. Ou seja, o simulador aproxima-se da realidade ao incorporar essa incerteza probabilística.
